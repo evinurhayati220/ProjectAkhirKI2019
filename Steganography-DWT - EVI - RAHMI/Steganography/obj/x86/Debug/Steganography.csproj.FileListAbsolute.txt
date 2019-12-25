@@ -1,0 +1,9 @@
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\bin\Debug\Steganography.exe.config
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\bin\Debug\Steganography.exe
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\bin\Debug\Steganography.pdb
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\obj\x86\Debug\Steganography.exe
+E:\Semester5\KI\Steganografi\jurnal dwt\Steganography-master\Steganography\obj\x86\Debug\Steganography.pdb
